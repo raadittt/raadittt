@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Rafi Aditya Mahendra**.\
+Perkenalkan nama saya **Rafi Aditya Mahendra**.
 
 Saya seorang **Mahasiswa** di [Universitas Pembangunan Nasional Veteran Jawa Timur](https://www.upnjatim.ac.id/).
 
